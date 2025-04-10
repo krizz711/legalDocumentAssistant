@@ -12,6 +12,10 @@ A Streamlit-based application that helps users analyze legal contracts by summar
 
 ---
 
+![Alt text](C:\Users\Asus\OneDrive\图片\Screenshots\Screenshot 2025-04-06 152132.png)
+
+
+
 ## 🛠️ Tech Stack
 
 - Streamlit – UI & interaction  
