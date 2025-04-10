@@ -4,6 +4,8 @@ A Streamlit-based application that helps users analyze legal contracts by summar
 
 ---
 
+![Image](https://github.com/user-attachments/assets/f62a5846-ebfe-4954-8309-fe7450a6ed31)
+
 ## ✨ Features
 
 - 📄 **Document Summary** – Highlight obligations, payment terms, termination, confidentiality, and penalties  
